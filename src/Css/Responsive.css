@@ -1,0 +1,1440 @@
+@media (min-width: 1200px) {
+    .landingPage_section1 .container {
+        max-width: 980px;
+    }
+}
+
+@media (min-width: 1601px) {
+    .Userpage_sectio1 .container {
+        max-width: 1470px;
+    }
+
+    .Adminpage_sectio1 .container {
+        max-width: 1470px;
+    }
+
+    .MyappHeader .container {
+        max-width: 1470px;
+    }
+}
+
+@media (max-width: 1800px) {
+    .Side_icons {
+        padding-right: 30px;
+    }
+}
+
+@media (max-width: 1600px) {
+
+    .transpertLogo {
+        bottom: 5%;
+        right: 5%;
+    }
+
+    .welcome_text p {
+        max-width: 90%;
+        line-height: 1.4;
+    }
+
+    .first_row_left {
+        max-width: 65%;
+    }
+
+    .first_row_right {
+        max-width: 35%;
+    }
+
+    .PAC_ADE {
+        padding: 0 30px;
+        max-height: 396px;
+    }
+
+    .left_textplay h2 {
+        font-size: 34px;
+        max-width: 400px;
+        margin-bottom: 14px;
+    }
+
+    .left_textplay p {
+        font-size: 26px;
+    }
+
+    .left_textplay {
+        padding: 80px 0 50px 0;
+    }
+
+    .right_logoplay {
+        max-width: 280px;
+    }
+
+    .status_block {
+        max-height: 396px;
+        padding: 36px 15px 36px 15px;
+    }
+
+    .Side_icons {
+        padding-right: 10px;
+    }
+
+    .second_row_left {
+        max-width: 897px;
+    }
+
+    .MyappHeader_logo {
+        max-width: 400px;
+    }
+
+    .popup_content_head {
+        font-size: 32px;
+        padding-bottom: 35px;
+    }
+
+    .popup_content {
+        padding: 35px 0 35px 0;
+    }
+
+    .How_work_block {
+        height: calc(100% - 72.11px);
+    }
+
+    .level_img {
+        max-width: 100px;
+    }
+
+    .text_level p {
+        font-size: 15px;
+        line-height: 1.5;
+    }
+
+    .Popup_block {
+        height: 600px;
+        max-height: 600px;
+        max-width: 1160px;
+        padding: 10px;
+    }
+
+    .level_1_text {
+        max-width: 328px;
+        padding-left: 15px;
+    }
+
+    .level_1 {
+        left: 70px;
+        bottom: 0;
+    }
+
+    .level_2 {
+        left: 275px;
+        top: 40px;
+    }
+
+    .level_2_text {
+        max-width: 260px;
+    }
+
+    .level_3_text {
+        max-width: 251px;
+        padding-left: 25px;
+        margin-top: 15px;
+    }
+
+    .level_3 {
+        top: 0px;
+        right: 260px;
+    }
+
+    .level_4 {
+        right: 100px;
+        top: 75px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .landingPage_Header {
+        padding: 35px 0;
+    }
+
+    .landingPage_Header .Headerlogo {
+        max-width: 400px;
+    }
+
+    .landingPage_section1 {
+        padding: 100px 0 80px 0;
+    }
+
+    .landingPage_section1 .lock_img_block {
+        max-width: 170px;
+    }
+
+    .twitter {
+        margin-bottom: 30px;
+    }
+
+    .landingPage_section1 .text_block p {
+        font-size: 26px;
+    }
+
+    .landingPage_section1 .text_block {
+        margin: 20px auto 40px auto;
+        width: 83%;
+    }
+}
+
+@media (max-width: 1399px) {
+
+    .Userpage_sectio1_first_row,
+    .Userpage_sectio1_second_row {
+        margin: 0 -10px 25px -10px;
+    }
+
+    .PAC_ADE {
+        padding: 0 25px;
+    }
+
+    .right_logoplay {
+        max-width: 255px;
+    }
+
+    .first_row_left,
+    .first_row_right,
+    .second_row_left,
+    .second_row_right {
+        padding: 0 10px;
+    }
+
+    .second_row_left {
+        max-width: 707px;
+    }
+
+
+    .MyappHeader_logo {
+        max-width: 360px;
+    }
+
+    .score_poster p {
+        font-size: 36px;
+    }
+
+    .score_title {
+        font-size: 18px;
+    }
+
+    .score_poster {
+        margin-bottom: 18px;
+    }
+
+    .Score_block {
+        padding: 50px 0 90px 0;
+    }
+
+    .title_for_page h1 {
+        font-size: 32px;
+    }
+
+    .score_table_block {
+        padding: 80px 40px 40px 40px;
+    }
+
+    .admin_table {
+        padding-right: 50px;
+    }
+
+    .Adminpage_sectio1 {
+
+        margin-bottom: 80px;
+    }
+}
+
+@media (max-width: 1360px) {}
+
+@media (max-width: 1280px) {}
+
+@media (max-width: 1199px) {
+    .landingPage_Header {
+        padding: 25px 0;
+    }
+
+    .landingPage_Header .Headerlogo {
+        max-width: 320px;
+    }
+
+    .landingPage_section1 {
+        padding: 80px 0 80px 0;
+    }
+
+    .landingPage_section1 .text_block p {
+        font-size: 22px;
+    }
+
+    .landingPage_section1 .text_block {
+        margin: 20px auto 30px auto;
+        width: 64%;
+    }
+
+    .landingPage_section1 .lock_img_block {
+        max-width: 145px;
+    }
+
+    .LandingPagebtn button {
+        width: 325px;
+        min-width: 325px;
+        height: 55px;
+        padding: 0 25px;
+        font-size: 18px;
+    }
+
+    .LandingPagebtn svg {
+        width: 80px;
+        height: 80px;
+    }
+
+    .LandingPagebtn p {
+        margin-left: 45px;
+    }
+
+    .MyappHeader_logo {
+        max-width: 300px;
+    }
+
+    .first_row_left {
+        max-width: 100%;
+    }
+
+    .first_row_right {
+        max-width: 100%;
+        margin: 25px auto 0 auto;
+    }
+
+    .welcome_text {
+        margin: 20px 0 70px 0;
+    }
+
+    .second_row_left {
+        max-width: 100%;
+    }
+
+    .Row_Ststus {
+        max-width: 70%;
+    }
+
+    .second_row_right {
+        max-width: 100%;
+        margin: 25px auto 0 auto;
+    }
+
+    .logout_btn {
+        padding: 10px 40px;
+        font-size: 18px;
+    }
+
+    .Popup_block {
+        height: 500px;
+        max-height: 500px;
+        max-width: 720px;
+        padding: 5px;
+    }
+
+    .popup_content_head {
+        font-size: 24px;
+        padding-bottom: 10px;
+    }
+
+    .level_img {
+        max-width: 80px;
+    }
+
+    .popup_content {
+        padding: 25px 0 25px 0;
+    }
+
+    .How_work_block {
+
+        height: calc(100% - 37.83px);
+
+    }
+
+    .text_level p {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    .level_1 {
+        left: 60px;
+        bottom: 25px;
+    }
+
+    .level_1_text {
+        max-width: 243px;
+        padding-left: 0px;
+    }
+
+    .level_2 {
+        left: 155px;
+        top: 35px;
+    }
+
+    .level_2_text {
+        max-width: 200px;
+    }
+
+    .level_3 {
+        top: 20px;
+        right: 175px;
+    }
+
+    .level_3_text {
+        max-width: 155px;
+        padding-left: 0px;
+        margin-top: 15px;
+    }
+
+    .level_4 {
+        right: 55px;
+        top: 82px;
+    }
+
+    .title_for_page h1 {
+        font-size: 28px;
+    }
+
+    .Adminpage_sectio1_first_row {
+        margin: 0 -6px;
+    }
+
+    .Score_Col {
+        padding: 0 6px;
+    }
+
+    .score_title {
+        font-size: 16px;
+    }
+
+    .score_poster p {
+        font-size: 28px;
+    }
+
+    .Score_block {
+        padding: 40px 0 75px 0;
+    }
+
+    .Card_top_block_btn {
+        font-size: 20px;
+        width: 180px;
+        height: 60px;
+    }
+
+    .Card_top_block {
+        top: -30px;
+    }
+
+    .Card_top_block_btn p {
+        top: 19px;
+    }
+
+    .admin_table table tr td:nth-child(1) {
+        width: 25%;
+        font-size: 22px;
+    }
+
+    .admin_table table tr td:nth-child(1) sup {
+        font-size: 14px;
+    }
+
+    .admin_table table tr td:nth-child(2) {
+        width: 50%;
+        margin: 0 10px;
+    }
+
+    .admin_table table tr td:nth-child(3) {
+        width: 25%;
+    }
+
+    .admin_table table tr td {
+        min-height: 50px;
+        border-radius: 8px;
+        font-size: 18px;
+    }
+
+    .score_table_block {
+        padding: 60px 35px 35px 35px;
+    }
+
+    .admin_table {
+        padding-right: 45px;
+        max-height: 350px;
+    }
+
+    .Adminpage_sectio1 {
+        margin-bottom: 60px;
+    }
+}
+
+@media (max-width: 991px) {
+    .title_for_page_mobile {
+        display: block;
+        touch-action: auto;
+        pointer-events: all;
+        visibility: visible;
+    }
+
+    .landingPage_Header {
+        padding: 20px 0;
+    }
+
+    .landingPage_Header .Headerlogo {
+        max-width: 290px;
+    }
+
+    .landingPage_section1 {
+        padding: 70px 0 70px 0;
+    }
+
+    .landingPage_section1 .lock_img_block {
+        max-width: 135px;
+    }
+
+    .landingPage_section1 .text_block {
+        width: 75%;
+    }
+
+    .landingPage_section1 .text_block p {
+        font-size: 20px;
+    }
+
+    .MyappHeader_logo {
+        max-width: 280px;
+    }
+
+    .welcome_text p {
+        font-size: 18px;
+    }
+
+    .welcome_text {
+        margin: 20px 0 50px 0;
+    }
+
+    .pac_btn {
+        font-size: 22px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .pac_btn p {
+        top: 10.5px;
+    }
+
+    .pac_btn_block {
+        top: -30px;
+    }
+
+    .left_textplay h2 {
+        font-size: 28px;
+        max-width: 330px;
+        margin-bottom: 10px;
+    }
+
+    .left_textplay {
+        padding: 45px 0 45px 0;
+    }
+
+    .left_textplay p {
+        font-size: 20px;
+    }
+
+    .btn_play_block {
+        margin-top: 20px;
+    }
+
+    .right_logoplay {
+        max-width: 215px;
+    }
+
+    .PAC_ADE {
+        max-height: unset;
+    }
+
+    .play_now_btn {
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+
+    .play_now_btn_cover {
+        padding: 3px 4px;
+    }
+
+    .first_row_right,
+    .second_row_right {
+        margin: 15px auto 0 auto;
+    }
+
+    .Userpage_sectio1_first_row,
+    .Userpage_sectio1_second_row {
+        margin: 0 -10px 15px -10px;
+    }
+
+    .status_block {
+        padding: 25px 15px 25px 15px;
+        max-height: unset;
+    }
+
+    .status_head h2,
+    .Leaderboard_block_head {
+        font-size: 24px;
+        line-height: 1.15;
+    }
+
+    .status_head {
+        padding-bottom: unset;
+    }
+
+    .Col_status {
+        margin-top: 20px;
+    }
+
+    .progressbar {
+        width: 52px;
+        height: 52px;
+    }
+
+    .progressbar p {
+        font-size: 14px;
+    }
+
+    .Col_status h4 {
+        font-size: 16px;
+        margin: 6px auto 0 auto;
+        max-width: 115px;
+    }
+
+    .prize_block {
+        max-height: unset;
+        padding: 40px 30px 40px 30px;
+    }
+
+    .prize_block_head {
+        font-size: 38px;
+        margin-bottom: 15px;
+        line-height: 1.1;
+    }
+
+    .prize_slide {
+        padding-bottom: 38px;
+    }
+
+    .prizeCard {
+        padding: 0 5px;
+    }
+
+    .prize_slide_row {
+        margin: 0 -5px;
+    }
+
+    .prize_content {
+        border-radius: 8px;
+        padding: 10px 15px 10px 10px;
+    }
+
+    .prizeCard_cover {
+        min-width: 190px;
+        width: 190px;
+        border-radius: 8px;
+    }
+
+    .logoleft {
+        max-width: 45px;
+    }
+
+    .prize_text p {
+        font-size: 18px;
+    }
+
+    .prize_text h3 {
+        font-size: 24px;
+    }
+
+    .prize_text sup {
+        font-size: 16px;
+    }
+
+    .prize_block::after {
+        right: 25px;
+        top: 92px;
+        width: 80px;
+        height: 90px;
+    }
+
+    .simplebar-track.simplebar-vertical {
+        width: 8px !important;
+    }
+
+    .simplebar-track.simplebar-horizontal {
+        height: 8px !important;
+    }
+
+    .Leaderboard_block {
+        max-height: unset;
+        padding: 30px;
+    }
+
+    .Leaderboard_block_head_block {
+        margin-bottom: 15px;
+    }
+
+    .Leaderboard_table {
+        padding-right: 28px;
+        padding-bottom: 35px;
+        max-height: 170px;
+    }
+
+    .Leaderboard_table table tr td {
+        min-height: 30px;
+        font-size: 15px;
+    }
+
+    .Leaderboard_table table tr {
+        border-radius: 5px;
+    }
+
+    .title_for_page h1 {
+        font-size: 24px;
+    }
+
+    .title_for_page.show_hide {
+        display: none;
+        visibility: hidden;
+        touch-action: none;
+        pointer-events: none;
+    }
+
+    .your_score_block {
+        width: calc(100% - 28px);
+    }
+
+    .Card_top_block_btn {
+        font-size: 16px;
+        width: 150px;
+        height: 50px;
+    }
+
+    .title_for_page {
+        margin-top: 10px;
+    }
+
+    .Score_block {
+        padding: 15px 0 70px 0;
+    }
+
+    .Score_Col {
+        width: 33.33%;
+        padding: 0 10px;
+        margin-top: 30px;
+    }
+
+    .Adminpage_sectio1_first_row {
+        justify-content: center;
+        margin: 0 -10px;
+    }
+
+    .Card_top_block_btn p {
+        top: 16px;
+    }
+
+    .Card_top_block {
+        top: -25px;
+    }
+
+    .score_table_block {
+        padding: 50px 25px 25px 25px;
+    }
+
+    .admin_table {
+        padding-right: 33px;
+    }
+
+    .your_score_block .your_score_Data:first-child {
+        border-radius: 5px 0px 0px 5px;
+        font-size: 15px;
+    }
+
+    .your_score_block .your_score_Data:last-child {
+        border-radius: 0px 5px 5px 0px;
+        font-size: 15px;
+    }
+
+    .your_score_block .your_score_Data {
+        min-height: 30px;
+    }
+
+    .Help_btn {
+        width: 45px;
+        height: 45px;
+        margin-left: 12px;
+    }
+}
+
+@media (max-width: 767px) {
+    .landingPage_section1 .text_block {
+        width: 70%;
+    }
+
+    .MyappHeader_container {
+        max-width: 100%;
+    }
+
+    .MyappHeader_logo {
+        max-width: 250px;
+    }
+
+    .logout_btn {
+        padding: 10px 40px;
+        font-size: 16px;
+    }
+
+    .logout_btn {
+        padding: 6px 30px;
+        font-size: 16px;
+    }
+
+    .Help_btn {
+        width: 40px;
+        height: 40px;
+
+    }
+
+    .welcome_text p {
+        font-size: 16px;
+    }
+
+    .welcome_text {
+        margin: 15px 0 45px 0;
+    }
+
+    .welcome_text p {
+        max-width: 100%;
+
+    }
+
+    .right_logoplay {
+        max-width: 165px;
+    }
+
+    .left_textplay h2 {
+        font-size: 22px;
+        max-width: 260px;
+    }
+
+    .left_textplay p {
+        font-size: 18px;
+    }
+
+    .play_now_btn {
+        font-size: 16px;
+        padding: 8px 20px;
+    }
+
+    .left_textplay {
+        padding: 40px 0 40px 0;
+    }
+
+    .pac_btn {
+        font-size: 16px;
+        width: 160px;
+        height: 50px;
+    }
+
+    .pac_btn p {
+        top: 5.5px;
+    }
+
+    .pac_btn_block {
+        top: -25px;
+    }
+
+    .status_head h2,
+    .Leaderboard_block_head {
+        font-size: 22px;
+
+    }
+
+    .prize_block_head {
+        font-size: 32px;
+    }
+
+    .prize_block::after {
+        right: 25px;
+        top: 84px;
+        width: 70px;
+        height: 90px;
+    }
+
+    .prize_block::after {
+        top: 84px;
+    }
+
+    .transpertLogo {
+        max-width: 170px;
+    }
+
+    .Popup_block {
+        height: 420px;
+        max-height: 420px;
+        max-width: 520px;
+        padding: 5px;
+    }
+
+    .popup_content {
+        padding: 15px 0 15px 0;
+    }
+
+    .popup_content_head {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+
+    .How_work_block {
+        height: calc(100% - 30.52px);
+    }
+
+    .level_img {
+        max-width: 60px;
+    }
+
+    .text_level p {
+        font-size: 12px;
+        line-height: 1.4;
+    }
+
+    .level_1_text {
+        max-width: 175px;
+
+    }
+
+    .level_1 {
+        left: 45px;
+        bottom: 0px;
+    }
+
+    .level_2 {
+        left: 110px;
+        top: 30px;
+    }
+
+    .level_3 {
+        top: 25px;
+        right: 135px;
+    }
+
+    .level_2_text {
+        max-width: 135px;
+    }
+
+    .level_3_text {
+        max-width: 100px;
+        margin-top: 10px;
+    }
+
+    .level_4 {
+        right: 15px;
+        top: 85px;
+    }
+
+    .title_for_page h1 {
+        font-size: 22px;
+    }
+
+    .Score_Col {
+        margin-top: 20px;
+    }
+
+    .score_title {
+        font-size: 14px;
+    }
+
+
+    .score_poster p {
+        font-size: 24px;
+    }
+
+    .score_poster {
+        margin-bottom: 15px;
+    }
+
+    .score_table_block {
+        padding: 40px 20px 20px 20px;
+    }
+
+    .admin_table {
+        padding-right: 28px;
+        max-height: 265px;
+    }
+
+    .Card_top_block_btn {
+        font-size: 14px;
+        width: 120px;
+        height: 45px;
+    }
+
+    .Card_top_block {
+        top: -22.5px;
+    }
+
+    .Card_top_block_btn p {
+        top: 15px;
+    }
+
+    .admin_table table tr td:nth-child(1) {
+        width: 30%;
+        font-size: 18px;
+    }
+
+    .admin_table table tr td:nth-child(3) {
+        width: 30%;
+    }
+
+    .admin_table table tr td:nth-child(2) {
+        width: 40%;
+        margin: 0 5px;
+    }
+
+    .admin_table table tr {
+        margin-top: 5px;
+    }
+
+    .admin_table table tr td:nth-child(1) sup {
+        font-size: 12px;
+    }
+
+    .admin_table table tr td {
+        min-height: 40px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 575px) {
+    .Adminpage_sectio1 {
+        margin-bottom: 40px;
+    }
+
+    .landingPage_Header {
+        padding: 15px 0;
+    }
+
+    .landingPage_Header .Headerlogo {
+        max-width: 250px;
+    }
+
+    .landingPage_section1 .lock_img_block {
+        max-width: 115px;
+    }
+
+    .landingPage_section1 .text_block p {
+        font-size: 18px;
+    }
+
+    .Side_icons .icons svg {
+        width: 28px;
+        height: 28px;
+    }
+
+    .twitter {
+        margin-bottom: 25px;
+    }
+
+
+
+    .LandingPagebtn button {
+        width: 290px;
+        min-width: 290px;
+        height: 45px;
+        padding: 0 20px;
+        font-size: 16px;
+    }
+
+    .LandingPagebtn svg {
+        width: 70px;
+        height: 70px;
+    }
+
+    .LandingPagebtn p {
+        margin-left: 40px;
+    }
+
+    .landingPage_section1 .text_block {
+        width: 65%;
+    }
+
+    .welcome_text {
+        margin: 10px 0 40px 0;
+    }
+
+    .welcome_text p {
+        font-size: 14px;
+    }
+
+    .MyappHeader_logo {
+        display: none;
+    }
+
+    .MyappHeader_logo_mobile {
+        max-width: 130px;
+        display: block;
+    }
+
+    .logout_btn {
+        padding: 5px 25px;
+        font-size: 14px;
+    }
+
+    .Help_btn {
+        margin-left: unset;
+        margin-top: 15px;
+        width: 45px;
+        height: 45px;
+    }
+
+    .transpertLogo {
+        max-width: 140px;
+    }
+
+    .PAC_ADE {
+        flex-direction: column;
+        padding: 40px 20px 30px 20px;
+    }
+
+    .left_textplay {
+        padding: 0px 0 10px 0;
+        width: 100%;
+    }
+
+    .left_textplay h2 {
+        font-size: 18px;
+        max-width: 220px;
+        text-align: center;
+        margin: 0 auto;
+        padding-left: 0;
+    }
+
+    .left_textplay p {
+        font-size: 16px;
+        text-align: center;
+        padding-left: 0;
+
+    }
+
+    .play_now_btn {
+        font-size: 14px;
+        padding: 5px 20px;
+    }
+
+    .right_logoplay {
+        max-width: 140px;
+        transform: rotate(28deg);
+    }
+
+    .btn_play_block {
+        text-align: center;
+    }
+
+    .Row_Ststus {
+        max-width: 100%;
+    }
+
+    .status_block {
+        padding: 15px 10px 15px 10px;
+    }
+
+    .Col_status h4 {
+        font-size: 14px;
+
+        max-width: 100px;
+    }
+
+    .status_head h2,
+    .Leaderboard_block_head {
+        font-size: 20px;
+    }
+
+    .Col_status {
+        margin-top: 15px;
+    }
+
+    .progressbar {
+        width: 45px;
+        height: 45px;
+    }
+
+    .progressbar p {
+        font-size: 12px;
+    }
+
+    .prize_block {
+        padding: 30px 15px 30px 15px;
+    }
+
+    .btn_play_block {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .prize_block_head {
+        font-size: 24px;
+    }
+
+    .logoleft {
+        max-width: 35px;
+    }
+
+    .prize_text h3 {
+        font-size: 16px;
+    }
+
+    .prize_text sup {
+        font-size: 10px;
+    }
+
+    .prizeCard_cover {
+        min-width: 180px;
+        width: 180px;
+
+    }
+
+    .prize_block::after {
+        top: 60px;
+        right: 8px;
+        width: 50px;
+    }
+
+    .Leaderboard_block {
+        padding: 25px;
+    }
+
+    .line img {
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .Popup_block {
+        max-width: 375px;
+    }
+
+    .popup_content_head {
+        font-size: 18px;
+    }
+
+    .text_level p {
+        font-size: 11px;
+    }
+
+    .How_work_block {
+        height: calc(100% - 25.88px);
+    }
+
+    .level_img {
+        max-width: 50px;
+    }
+
+    .level_1_text {
+        max-width: 90px;
+        margin-top: 5px;
+    }
+
+    .level_1 {
+        left: 15px;
+        bottom: 25px;
+    }
+
+    .level_4 {
+        right: 45px;
+        top: 20px;
+    }
+
+    .level_2_text {
+        max-width: 80px;
+    }
+
+    .level_2 {
+        left: 115px;
+        top: 30px;
+    }
+
+    .level_3 {
+        top: 150px;
+        right: 70px;
+    }
+
+    .Score_Col {
+        margin-top: 15px;
+        width: 45%;
+    }
+
+    .Score_block {
+        padding: 15px 0 55px 0;
+    }
+
+    .admin_table {
+        padding-right: 18px;
+        max-height: 235px;
+    }
+
+    .score_table_block {
+        padding: 35px 15px 15px 15px;
+    }
+
+    .Card_top_block_btn {
+        font-size: 12px;
+        width: 90px;
+        height: 30px;
+    }
+
+    .Card_top_block {
+        top: -15px;
+    }
+
+
+    .Card_top_block_btn p {
+        top: 9px;
+    }
+
+    .admin_table table tr td:nth-child(1) {
+
+        font-size: 16px;
+    }
+
+    .admin_table table tr td:nth-child(1) sup {
+        font-size: 10px;
+    }
+
+    .admin_table table tr td {
+        min-height: 35px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+
+}
+
+@media (max-width: 450px) {}
+
+@media (max-width: 400px) {
+    .landingPage_Header .Headerlogo {
+        max-width: 230px;
+    }
+
+    .landingPage_section1 {
+        padding: 60px 0 60px 0;
+    }
+
+    .landingPage_section1 .text_block p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 367px) {
+    .Adminpage_sectio1 {
+        margin-bottom: 30px;
+    }
+
+    .landingPage_section1 {
+        padding: 50px 0 50px 0;
+    }
+
+    .landingPage_section1 .text_block p {
+        font-size: 14px;
+    }
+
+    .landingPage_section1 .text_block {
+        margin: 15px auto 25px auto;
+    }
+
+    .LandingPagebtn button {
+        width: 260px;
+        min-width: 260px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .LandingPagebtn svg {
+        width: 65px;
+        height: 65px;
+    }
+
+    .logout_btn {
+        padding: 4px 15px;
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .MyappHeader_container {
+        padding: 0 10px;
+    }
+
+    .MyappHeader_logo_mobile {
+        max-width: 120px;
+        display: block;
+    }
+
+    .text_level p {
+        font-size: 10px;
+    }
+
+    .level_1_text {
+        max-width: 80px;
+
+    }
+
+    .level_1 {
+        left: 12px;
+        bottom: 30px;
+    }
+
+    .level_2 {
+        left: 90px;
+        top: 45px;
+    }
+
+    .level_2_text {
+        max-width: 70px;
+    }
+
+    .level_3 {
+        top: 160px;
+        right: 45px;
+    }
+
+    .level_4 {
+        right: 30px;
+        top: 20px;
+    }
+
+    .Score_block {
+        padding: 10px 0 50px 0;
+    }
+
+    .Score_Col {
+        width: 50%;
+    }
+
+    .title_for_page h1 {
+        font-size: 18px;
+    }
+
+    .score_title {
+        font-size: 12px;
+    }
+
+    .score_poster p {
+        font-size: 22px;
+    }
+
+    .admin_table table tr td:nth-child(1) {
+        font-size: 14px;
+    }
+
+    .admin_table table tr td:nth-child(1) sup {
+        font-size: 9px;
+    }
+
+    .admin_table table tr td {
+        font-size: 12px;
+    }
+
+}
